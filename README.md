@@ -10,4 +10,6 @@ And only if you turn your webcam on. And enable Chrome's Experimental Web Platfo
 
 Okay, it may not be super useful in this context but it's pretty cool. And check it out, here's a puppy! (it only works on humans :sweat_smile:)
 
+_If you would like to see it in action, make sure you go to chrome://flags/ and enable 'Experimental Web Platform' features. Then head on over to https://wallace-gs.github.io/face-censoring/_
+
 ![censored face & pup](./censor.gif)

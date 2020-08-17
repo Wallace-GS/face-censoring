@@ -1,14 +1,10 @@
 # Face Censorship
 
-This little project uses the FaceDetector API to detect your face and censor it for maximum webcam security.
+This little project uses the FaceDetector API to detect your face and censor it for maximum webcam security (on this website :sweat_smile:).
 
-On this website.
+If you want to have a go then turn your webcam on and enable Chrome's Experimental Web Platform features.
 
-Which is the only place where it will work.
-
-And only if you turn your webcam on. And enable Chrome's Experimental Web Platform features.
-
-Okay, it may not be super useful in this context but it's pretty cool. And check it out, here's a puppy! (it only works on humans :sweat_smile:)
+Check out this sample with my pup :dog:! (it only works on humans)
 
 _If you would like to see it in action, make sure you go to chrome://flags/ and enable 'Experimental Web Platform' features. Then head on over to https://wallace-gs.github.io/face-censoring/_
 
